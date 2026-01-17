@@ -19,5 +19,5 @@ myst-parser==0.18.0
 linuxdoc==20211220
 aiounittest==1.4.2
 yamllint==1.26.3
-wlc==1.13
+wlc==1.17.2
 coloredlogs==15.0.1
